@@ -1,0 +1,7 @@
+fullscreen
+16:9
+2560x1440
+75
+116% br
+
+high settings
