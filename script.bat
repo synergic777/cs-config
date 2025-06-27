@@ -11,4 +11,7 @@ copy /Y "%SOURCE_CFG%" "%TARGET_CFG%"
 REM Open destination folder in Explorer
 explorer "%TARGET_DIR%"
 
+REM Launch CS:GO via Steam
+start steam://run/730
+
 endlocal
