@@ -1,7 +1,7 @@
 fullscreen
 4:3
-1280*960
-75
+1024*768
+300
 116% br
 
 high settings
