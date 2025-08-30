@@ -1,9 +1,0 @@
-fullscreen
-4:3
-1024*768
-300
-116% br
-
-high settings
-textures low
-msaa 8x

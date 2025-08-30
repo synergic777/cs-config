@@ -1,0 +1,15 @@
+fullscreen windowed
+4:3
+1280*960
+unlimited @ 75hz
+93% br
+
+----
+
+amd antilag off
+
+high settings
+- textures low
+- msaa 8x
+- particle detail low
+- ANTRO x 16
