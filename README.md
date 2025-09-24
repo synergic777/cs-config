@@ -1,4 +1,6 @@
-git clone https://github.com/synergic777/cs-config ~/cs-config;
+cd ~/;
+
+git clone https://github.com/synergic777/cs-config /cs-config;
 
 cd ~/cs-config;
 
