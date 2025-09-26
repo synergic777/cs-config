@@ -9,7 +9,11 @@ unlimited @ 75hz
 amd antilag off
 
 high settings
+- global shadow quality : medium
+- al l dynamic shadows
 - textures low
 - msaa 8x
+- shader detail  high
+- ambient oclusion medium
 - particle detail low
 - ANTRO x 16
