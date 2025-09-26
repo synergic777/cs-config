@@ -1,7 +1,6 @@
 fullscreen windowed
 4:3
 1280*960
-unlimited @ 75hz
 93% br
 
 ----
@@ -10,7 +9,7 @@ amd antilag off
 
 high settings
 - global shadow quality : medium
-- al l dynamic shadows
+- all dynamic shadows
 - textures low
 - msaa 8x
 - shader detail  high
